@@ -10,6 +10,7 @@ export const Card = ({ restaurant,modal }) => {
 
             <div className="title">
                 <h2>{restaurant.name}</h2>
+                <hr />
             </div>
             <div className="card_text">
                 <span>{restaurant.address.map(branch => <p>{branch.street}</p>)}</span>

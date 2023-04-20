@@ -1,23 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 body {
-    background-color: #b7d4c8;
-    font-family: Roboto Mono;
+    background: rgb(209, 255, 236);
+    background: linear-gradient(79deg, rgba(209, 255, 236, 1) 0%, rgba(201, 195, 130, 1) 100%);
+    font-family: Roboto;
+}
+
+h1 {
+    margin: 1em auto;
+    text-align: center;
+    color: #3a564a;
 }
 
 .list {
     display: grid;
     gap: 30px;
-    /* espacio entre hijos necesita flex */
     width: 100%;
-    /* overflow-y: scroll; como me comporto cuanod mi contenid es mas largo que el contenedor */
+    max-width: 1024px;
+    margin: 0 auto;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
 .title {
     /* border-bottom: 1px solid #eee; */
     /* position: relative; */
-    margin: 0 0;
+    margin: 0 ;
     width: 100%;
     /* padding-bottom: 10px; */
     font-size: 12px;
@@ -27,52 +34,49 @@ body {
 .card {
     display: flex;
     flex-direction: column;
-    /* direccion */
-    align-items: baseline;
     box-shadow: 10px 5px 8px rgba(0, 0, 0, 0.184);
-    /* sombras Red Green Blue Alpha */
-    border-radius: 3rem;
-    /* padding: 10px; distancia entre el borde y los elementos internos */
-    background-color: #506E61;
+    border-radius: 17px;
+    background-color: white;
     text-align: center;
-    color: beige;
+    color: #506E61;
     width: 262px;
     height: 450px;
     scroll-behavior: smooth;
     overflow: hidden;
 }
 
+.card h2 {
+    font-weight: 600;
+    height: 30px;
+}
+
+.card hr {
+    background-color: #506E61;
+    border: none;
+    width: 100px;
+    height: 3px;
+}
+
 .card img {
     height: 190px;
     width: 262px;
-    /* border-top-left-radius: 3em;
-    border-top-right-radius: 3em; */
     object-fit: cover;
-
-
-
 }
 
 .card_text {
     border-top-color: #506E61;
-    margin: 0px 8px 8px 0;
     text-align: center;
     width: 100%;
-    /* max-height: 290px; */
     font-size: 12px;
-    /* display: flex; */
-
+    height: 100px;
     align-items: center;
-    /* justify-content: center; */
-
-
 }
 
 .card button {
     font: inherit;
-    font-weight: 900;
-    background-color: white;
-    color: #506E61;
+    font-weight: 400;
+    background-color: #506E61;
+    color: white;
     border: 2px solid #506E61;
     padding: 0.5em 1em;
     width: 160px;
@@ -92,26 +96,26 @@ body {
 .sub {
     position: absolute;
     border-top-left-radius: 1rem;
-    bottom: 0;
+    bottom: 10px;
     right: 0;
     padding: 8px 1.3rem;
     /* font-size: 1.4rem; */
     text-transform: uppercase;
-    background: #eee;
-    color: black;
+    background: #506E61;
+    color: white;
     margin: 0;
 }
 
 
 .modalMask {
-    width: 100vw;
-    height: 100vw;
     position: fixed;
     top: 0;
     left: 0;
-    padding: 80px 500px 80px 500px;
+    right: 0;
+    bottom: 0;
     background: rgba(0, 0, 0, .5);
-    display: inline-block;
+    display: flex;
+    justify-content: center;
     align-items: center;
 
 }

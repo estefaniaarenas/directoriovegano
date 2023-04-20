@@ -10,14 +10,14 @@ export default function App() {
 
   return (
     <div>
-      <h1>Restaurantes</h1>
       <div className="list">
+        <h1>Restaurantes</h1>
         {restaurants.map((restaurant) => (
           <Card restaurant={restaurant} modal={setClickRestaurant} />
         ))}
 
       </div>
-      <Modal dataModal={clickRestaurant} cerrarModal={setClickRestaurant}/>
+      <Modal dataModal={clickRestaurant} cerrarModal={setClickRestaurant} />
     </div>
   )
 }
