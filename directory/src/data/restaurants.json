@@ -1,0 +1,1180 @@
+[
+    {
+        "name": "HERVIVORO",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Av Suba #100-53",
+                "city": "Bogotá",
+                "petViernesendly": true
+            },
+            {
+                "street": "Calle 71#9-55",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "08:00",
+                "closing": "21:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "08:00",
+                "closing": "16:00",
+                "days": [
+                    "Domingo",
+                    "Festivo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3148789399"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://linktr.ee/Herbivoro"
+            },
+            {
+                "channel": "instagram",
+                "url": "@herbivorococinavegana"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.8,
+        "image": "herbivoro.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "DE RAÍZ COCINA CAFE",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Av. cra 19#106 -46",
+                "city": "Bogotá",
+                "petViernesendly": true
+            },
+            {
+                "street": "Calle 65 # 5-70",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:00",
+                "closing": "20:30",
+                "days": [
+                    "Lunes",
+                    "Martes"
+                ]
+            },
+            {
+                "opening": "11:00",
+                "closing": "21:30",
+                "days": [
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "08:00",
+                "closing": "20:00",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "(601)2667796"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://pedidos.deraiz.com.co/categorias/restaurante"
+            },
+            {
+                "channel": "instagram",
+                "url": "@deraiz_cocina_cafe"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.4,
+        "image": "deraiz.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "VEGGIE GO ",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Calle 102 #68a-36",
+                "city": "Bogotá",
+                "petViernesendly": false
+            },
+            {
+                "street": "Calle 141 #9-40",
+                "city": "Bogotá",
+                "petViernesendly": false
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:30",
+                "closing": "21:20",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves"
+                ]
+            },
+            {
+                "opening": "11:30",
+                "closing": "21:50",
+                "days": [
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "11:30",
+                "closing": "20:50",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3053104509"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": false
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": " https://www.veggiegocolombia.com/"
+            },
+            {
+                "channel": "instagram",
+                "url": "@veggiegocolombia"
+            },
+            {
+                "channel": "facebook",
+                "url": "Veggie Go"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.0,
+        "image": "veggieGo.png",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "LA COCINITA VERDE",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 7 #64-24",
+                "city": "Bogotá",
+                "petViernesendly": true
+            },
+            {
+                "street": "Carrera 9 #60-96",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "19:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "21:30",
+                "days": [
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "17:30",
+                "days": [
+                    "Domingo",
+                    "Festivo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3022458161"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://linktr.ee/lacocinitaverde"
+            },
+            {
+                "channel": "instagram",
+                "url": "@la_cocinitaverde"
+            },
+            {
+                "channel": "facebook",
+                "url": "la cocinita verde"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.5,
+        "image": "cocinitaVerde.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "BOB & SUE",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Casa Arsenal, Cll 67 #6-32",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "20:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "21:00",
+                "days": [
+                    "Jueves"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "21:15",
+                "days": [
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "19:00",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "300 3801789"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://linktr.ee/bobandsue"
+            },
+            {
+                "channel": "instagram",
+                "url": "@bobandsueburger"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.3,
+        "image": "bobSue.png",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "MAHA VEGAN FOOD",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 8#45-87 piso 2",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:30",
+                "closing": "17:00",
+                "days": [
+                    "Lunes"
+                ]
+            },
+            {
+                "opening": "11:30",
+                "closing": "20:30",
+                "days": [
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado",
+                    "Domingo",
+                    "Festivos"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "9260504",
+            "3142180908"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@mahaveganfood"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.6,
+        "image": "mahaVegan.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "MUNDO VEGANO",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 20 #35-26",
+                "city": "Bogotá",
+                "petViernesendly": false
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:30",
+                "closing": "15:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes"
+                ]
+            },
+            {
+                "opening": "11:30",
+                "closing": "21:00",
+                "days": [
+                    "Sábado",
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3187666837"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": false
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@mundovegano_col"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.6,
+        "image": "mundoVegano.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "PURA VIDA",
+        "type": "Vegano y vegetariano",
+        "address": [
+            {
+                "street": "Calle 93 #13-91 local 3",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "08:30",
+                "closing": "20:45",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves"
+                ]
+            },
+            {
+                "opening": "08:30",
+                "closing": "21:45",
+                "days": [
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "08:30",
+                "closing": "18:45",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3045607822"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://queresto.com/puravida"
+            },
+            {
+                "channel": "instagram",
+                "url": "@puravida_community"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.5,
+        "tipoDeComida": "Vegano y Vegetariano",
+        "image": "puraVida.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "ELEKTRA PUNK & FOOD",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 5 #69-27",
+                "city": "Bogotá",
+                "petViernesendly": true
+            },
+            {
+                "street": "Calle 140 #12-09 segundo piso",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "20:450",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "21:45",
+                "days": [
+                    "Jueves"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "23:00",
+                "days": [
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "17:30",
+                "days": [
+                    "Domingo",
+                    "Festivos"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3104305275",
+            "3228384033"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://www.elektra.com.co/"
+            },
+            {
+                "channel": "instagram",
+                "url": "@elektra.food"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.5,
+        "image": "elektraFood.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": " VEGAN’US COCINA FELIZ",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 54 #5c-33",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "08:00",
+                "closing": "20:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "10:00",
+                "closing": "17:00",
+                "days": [
+                    "Domingo",
+                    "Festivos"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3167206725"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@veganuscocinafeliz"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.4,
+        "image": "veganus.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": " VEGANO OCULTO",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Calle 61 #9-81",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "09:00",
+                "closing": "20:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3046614216"
+        ],
+        "serviceType": {
+            "Domicilio": false,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": " https://En el lugar  s.google.com/view/vegano-oculto"
+            },
+            {
+                "channel": "instagram",
+                "url": "@vegano_oculto_"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.7,
+        "image": "veganoOculto.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "MERCY VEGAN FOOD",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Cll 19 Bis #1-49",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "09:00",
+                "closing": "20:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "11:00",
+                "closing": "17:00",
+                "days": [
+                    "Domingo",
+                    "Festivo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3107675304"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@mercyvegan.food"
+            }
+        ],
+        "googleScore": 4.7,
+        "image": "mercyVegan.png",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "STANKOV",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Cr12 #71-58",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:30",
+                "closing": "20:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "11:30",
+                "closing": "19:30",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3202170099"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://www.stankov.com.co/"
+            },
+            {
+                "channel": "instagram",
+                "url": "@stankov_col"
+            }
+        ],
+        "googleScore": 4.7,
+        "image": "stankov.webp",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "LA MESA VEGETARIANA",
+        "type": "Vegetariano",
+        "address": [
+            {
+                "street": "calle 85a#24-14",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "9:00",
+                "closing": "16:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3102183795"
+        ],
+        "serviceType": {
+            "Domicilio": false,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://www.bodegavegetariana.com/"
+            },
+            {
+                "channel": "facebook",
+                "url": "la esquina vegetariana"
+            }
+        ],
+        "googleScore": 4.6,
+        "image": "laMesaVegetariana.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "LA REVOLUCIÓN DE LA CUCHARA",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "carrera 9a#60-44",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "16:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3006568999"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@revolucioncuchara.food"
+            },
+            {
+                "channel": "facebook",
+                "url": "Restaurante revolución cuchara"
+            },
+            {
+                "channel": "twitter",
+                "url": "RevoCucharaStgo"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.6,
+        "image": "laCuchara.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "SABYI",
+        "type": "Vegano y vegetariano",
+        "address": [
+            {
+                "street": "carrera 24 #82 - 59",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "07:00",
+                "closing": "18:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado",
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3176996074"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://sabyi.com/"
+            },
+            {
+                "channel": "instagram",
+                "url": "@sabyialimentos"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.5,
+        "image": "sabyi.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "LA VILLA 99",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "carrera 47a #99-63",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "11:00",
+                "closing": "19:00",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado",
+                    "Domingo"
+                ]
+            },
+            {
+                "opening": "09:00",
+                "closing": "18:00",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3213383607"
+        ],
+        "serviceType": {
+            "Domicilio": false,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@lavilla.99"
+            }
+        ],
+        "googleScore": 5.0,
+        "image": "laVilla99.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "IOM",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Calle 36 #14-66, ",
+                "city": "Bogotá",
+                "petViernesendly": true
+            },
+            {
+                "street": "Calle 78 #11-49",
+                "city": "Bogotá",
+                "petViernesendly": false
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "17:00",
+                "days": [
+                    "Lunes"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "18:00",
+                "days": [
+                    "Martes",
+                    "Miércoles"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "19:30",
+                "days": [
+                    "Jueves"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "20:40",
+                "days": [
+                    "Viernes"
+                ]
+            },
+            {
+                "opening": "10:00",
+                "closing": "20:40",
+                "days": [
+                    "Sábado",
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "319 5789221"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "instagram",
+                "url": "@iom_plantbase"
+            },
+            {
+                "channel": "rappi",
+                "url": ""
+            }
+        ],
+        "googleScore": 4.8,
+        "image": "iom.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "CERO POLLITO",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 13# 40c-29 ",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "20:30",
+                "days": [
+                    "Lunes",
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "12:00",
+                "closing": "18:30",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            ""
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "https://www.ceropollito.com/"
+            },
+            {
+                "channel": "instagram",
+                "url": "@ceropollitoco"
+            },
+            {
+                "channel": "facebook",
+                "url": "Cero pollito"
+            },
+            {
+                "channel": "tiktok",
+                "url": "Ceropollitoco"
+            }
+        ],
+        "googleScore": 4.7,
+        "image": "ceroPollito.jpeg",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    },
+    {
+        "name": "CORAZÓN VEGANO",
+        "type": "Vegano",
+        "address": [
+            {
+                "street": "Carrera 106  bis # 143-32 ",
+                "city": "Bogotá",
+                "petViernesendly": true
+            }
+        ],
+        "schedules": [
+            {
+                "opening": "12:00",
+                "closing": "18:00",
+                "days": [
+                    "Martes",
+                    "Miércoles",
+                    "Jueves",
+                    "Viernes",
+                    "Sábado"
+                ]
+            },
+            {
+                "opening": "13:00",
+                "closing": "16:00",
+                "days": [
+                    "Domingo"
+                ]
+            }
+        ],
+        "phoneNumbers": [
+            "3192398174"
+        ],
+        "serviceType": {
+            "Domicilio": true,
+            "En el lugar  ": true
+        },
+        "socialNetworks": [
+            {
+                "channel": "webEn el lugar  ",
+                "url": "ttps://linktr.ee/corazonanimalvegano"
+            },
+            {
+                "channel": "instagram",
+                "url": "@corazonanimalvegano"
+            },
+            {
+                "channel": "facebook",
+                "url": "Corazón animal vegano"
+            },
+            {
+                "channel": "tiktok",
+                "url": "Corazón animal vegano"
+            }
+        ],
+        "googleScore": 4.7,
+        "image": "corazonVegano.png",
+        "menu_url": "/assets/herviboro_menu.jpg"
+    }
+]
