@@ -4,9 +4,7 @@ import { Modal } from './components';
 import { useState } from 'react';
 
 export default function App() {
-
   const [clickRestaurant, setClickRestaurant] = useState(null)
-
 
   return (
     <div>

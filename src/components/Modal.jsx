@@ -1,4 +1,5 @@
 
+import { MapComponent } from "./MapComponent"
 import { SocialButton } from "./SocialButton"
 
 export const Modal = ({ dataModal, cerrarModal }) => {
@@ -7,6 +8,11 @@ export const Modal = ({ dataModal, cerrarModal }) => {
         <div className="modalMask">
             <div className="modalBox">
                 <div className="contenidoModal">
+
+                    <div style={{ height: '200px', width: '100%' }}>
+
+                        <MapComponent />
+                    </div>
                     <div className="header">
                         <img src={`src/assets/images/${dataModal.image}`} alt="hola" />
                         <h3>{dataModal.name}</h3>
