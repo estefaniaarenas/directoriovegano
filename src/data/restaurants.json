@@ -6,12 +6,12 @@
             {
                 "street": "Av Suba #100-53",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             },
             {
                 "street": "Calle 71#9-55",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -45,16 +45,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web",
                 "url": "https://linktr.ee/Herbivoro"
             },
             {
                 "channel": "instagram",
-                "url": "@herbivorococinavegana"
+                "url": "https://www.instagram.com/herbivorococinavegana/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3148789399&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/HerbivoroCocinaVegana?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900044819-herbivoro-cocina-vegana"
             }
         ],
         "googleScore": 4.8,
@@ -69,12 +77,12 @@
             {
                 "street": "Av. cra 19#106 -46",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             },
             {
                 "street": "Calle 65 # 5-70",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -113,16 +121,20 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "https://pedidos.deraiz.com.co/categorias/restaurante"
             },
             {
                 "channel": "instagram",
-                "url": "@deraiz_cocina_cafe"
+                "url": "https://www.instagram.com/deraiz_cocina_cafe/"
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/deraizcocinacafe?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900024896-de-raiz-saludable"
             }
         ],
         "googleScore": 4.4,
@@ -136,12 +148,12 @@
             {
                 "street": "Calle 102 #68a-36",
                 "city": "Bogotá",
-                "petViernesendly": false
+                "petFrendly": false
             },
             {
                 "street": "Calle 141 #9-40",
                 "city": "Bogotá",
-                "petViernesendly": false
+                "petFrendly": false
             }
         ],
         "schedules": [
@@ -180,20 +192,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": " https://www.veggiegocolombia.com/"
             },
             {
                 "channel": "instagram",
-                "url": "@veggiegocolombia"
+                "url": "https://www.instagram.com/veggiegocolombia/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3053104509&text=Somos%20un%20restaurante%20vegano..."
             },
             {
                 "channel": "facebook",
-                "url": "Veggie Go"
+                "url": "https://www.facebook.com/veggiegocolombia?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900013819-veggie-go-saludable"
             }
         ],
         "googleScore": 4.0,
@@ -207,12 +223,12 @@
             {
                 "street": "Carrera 7 #64-24",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             },
             {
                 "street": "Carrera 9 #60-96",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -252,20 +268,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "https://linktr.ee/lacocinitaverde"
             },
             {
                 "channel": "instagram",
-                "url": "@la_cocinitaverde"
+                "url": "https://www.instagram.com/la_cocinitaverde/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/message/CU7JUPDQMXTQC1?autoload=1&app_absent=0"
             },
             {
                 "channel": "facebook",
-                "url": "la cocinita verde"
+                "url": "https://www.facebook.com/lacocinitaverde?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900003807-la-cocinita-verde"
             }
         ],
         "googleScore": 4.5,
@@ -279,7 +299,7 @@
             {
                 "street": "Casa Arsenal, Cll 67 #6-32",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -324,16 +344,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web",
                 "url": "https://linktr.ee/bobandsue"
             },
             {
                 "channel": "instagram",
-                "url": "@bobandsueburger"
+                "url": "https://www.instagram.com/bobandsueburger/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3003801789&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/bobandsueburger?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900054024-bob-y-sue"
             }
         ],
         "googleScore": 4.3,
@@ -347,7 +375,7 @@
             {
                 "street": "Carrera 8#45-87 piso 2",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -383,11 +411,19 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@mahaveganfood"
+                "url": "https://www.instagram.com/mahaveganfood/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3142180908&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/mahaveganfood?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900056574-maha-vegan-food"
             }
         ],
         "googleScore": 4.6,
@@ -401,7 +437,7 @@
             {
                 "street": "Carrera 20 #35-26",
                 "city": "Bogotá",
-                "petViernesendly": false
+                "petFrendly": false
             }
         ],
         "schedules": [
@@ -435,11 +471,19 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@mundovegano_col"
+                "url": "https://www.instagram.com/mundovegano_col/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3187666837&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/MundoVegano88?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900023643-mundo-vegano"
             }
         ],
         "googleScore": 4.6,
@@ -453,7 +497,7 @@
             {
                 "street": "Calle 93 #13-91 local 3",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -492,16 +536,20 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web",
                 "url": "https://queresto.com/puravida"
             },
             {
                 "channel": "instagram",
-                "url": "@puravida_community"
+                "url": "https://www.instagram.com/puravida_community/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3148753471&text=Somos%20un%20restaurante%20con%20opciones%20veganas%20y%20vegetarianas..."
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900093663-pura-vida-bogota"
             }
         ],
         "googleScore": 4.5,
@@ -516,12 +564,12 @@
             {
                 "street": "Carrera 5 #69-27",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             },
             {
                 "street": "Calle 140 #12-09 segundo piso",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -568,16 +616,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web",
                 "url": "https://www.elektra.com.co/"
             },
             {
                 "channel": "instagram",
-                "url": "@elektra.food"
+                "url": "https://www.instagram.com/elektra.food/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3104305275&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100063703895745&locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900047927-elektra-punk-y-food"
             }
         ],
         "googleScore": 4.5,
@@ -591,7 +647,7 @@
             {
                 "street": "Carrera 54 #5c-33",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -626,11 +682,19 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@veganuscocinafeliz"
+                "url": "https://www.instagram.com/veganuscocinafeliz/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3167206725&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/veganuscocinafeliz?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900023128-veganus"
             }
         ],
         "googleScore": 4.4,
@@ -638,13 +702,13 @@
         "menu_url": "/assets/herviboro_menu.jpg"
     },
     {
-        "name": " VEGANO OCULTO",
+        "name": "VEGANO OCULTO",
         "type": "Vegano",
         "address": [
             {
                 "street": "Calle 61 #9-81",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -670,16 +734,20 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": " https://En el lugar  s.google.com/view/vegano-oculto"
             },
             {
                 "channel": "instagram",
-                "url": "@vegano_oculto_"
+                "url": "https://www.instagram.com/vegano_oculto_/"
             },
             {
-                "channel": "rappi",
-                "url": ""
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3046614216&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/veganooculto?locale=ms_MY"
             }
         ],
         "googleScore": 4.7,
@@ -693,7 +761,7 @@
             {
                 "street": "Cll 19 Bis #1-49",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -728,7 +796,15 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@mercyvegan.food"
+                "url": "https://www.instagram.com/mercyvegan.food/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3107675304&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/profile.php?id=100023672924327&locale=ms_MY"
             }
         ],
         "googleScore": 4.7,
@@ -742,7 +818,7 @@
             {
                 "street": "Cr12 #71-58",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -775,12 +851,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "https://www.stankov.com.co/"
             },
             {
                 "channel": "instagram",
-                "url": "@stankov_col"
+                "url": "https://www.instagram.com/stankov_col/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3202170099&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/Stankov_col-111266047883946?locale=ms_MY"
+            },
+            {
+                "channel": "rappi",
+                "url": "https://www.rappi.com.co/restaurantes/900181275-stankov"
             }
         ],
         "googleScore": 4.7,
@@ -794,7 +882,7 @@
             {
                 "street": "calle 85a#24-14",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -820,12 +908,20 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web",
                 "url": "https://www.bodegavegetariana.com/"
             },
             {
+                "channel": "intagram",
+                "url": "https://www.instagram.com/laesquinavegetariana/"
+            },
+            {
                 "channel": "facebook",
-                "url": "la esquina vegetariana"
+                "url": "https://www.facebook.com/laesquinavegetariana?locale=ms_MY"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3102183795&text=Somos%20un%20restaurante%20vegano..."
             }
         ],
         "googleScore": 4.6,
@@ -839,7 +935,7 @@
             {
                 "street": "carrera 9a#60-44",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -866,19 +962,19 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@revolucioncuchara.food"
+                "url": "https://www.instagram.com/revolucioncuchara.food/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3006568999&text=Somos%20un%20restaurante%20vegano..."
             },
             {
                 "channel": "facebook",
-                "url": "Restaurante revolución cuchara"
-            },
-            {
-                "channel": "twitter",
-                "url": "RevoCucharaStgo"
+                "url": "https://www.facebook.com/revolucioncuchara.food?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900240207-la-revolucion-de-la-cuchara-vegana"
             }
         ],
         "googleScore": 4.6,
@@ -892,7 +988,7 @@
             {
                 "street": "carrera 24 #82 - 59",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -919,16 +1015,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "https://sabyi.com/"
             },
             {
                 "channel": "instagram",
-                "url": "@sabyialimentos"
+                "url": "https://www.instagram.com/sabyialimentos/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3176996074&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/sabyialimentos?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900012508-sabyi"
             }
         ],
         "googleScore": 4.5,
@@ -942,7 +1046,7 @@
             {
                 "street": "carrera 47a #99-63",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -975,9 +1079,18 @@
             "En el lugar  ": true
         },
         "socialNetworks": [
+            {},
             {
                 "channel": "instagram",
-                "url": "@lavilla.99"
+                "url": "https://www.instagram.com/lavilla.99/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3213383607&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "rappi",
+                "url": "https://www.rappi.com.co/restaurantes/900292660-la-villa-99-vegan-food"
             }
         ],
         "googleScore": 5.0,
@@ -991,12 +1104,12 @@
             {
                 "street": "Calle 36 #14-66, ",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             },
             {
                 "street": "Calle 78 #11-49",
                 "city": "Bogotá",
-                "petViernesendly": false
+                "petFrendly": false
             }
         ],
         "schedules": [
@@ -1048,11 +1161,19 @@
         "socialNetworks": [
             {
                 "channel": "instagram",
-                "url": "@iom_plantbase"
+                "url": "https://www.instagram.com/iom_plantbased/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3195789221&text=Somos%20un%20restaurante%20vegano..."
+            },
+            {
+                "channel": "facebook",
+                "url": "https://www.facebook.com/iomplantbased?locale=ms_MY"
             },
             {
                 "channel": "rappi",
-                "url": ""
+                "url": "https://www.rappi.com.co/restaurantes/900280907-iom-plant-based-food"
             }
         ],
         "googleScore": 4.8,
@@ -1066,7 +1187,7 @@
             {
                 "street": "Carrera 13# 40c-29 ",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -1099,20 +1220,24 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "https://www.ceropollito.com/"
             },
             {
                 "channel": "instagram",
-                "url": "@ceropollitoco"
+                "url": "https://www.instagram.com/ceropollitoco/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3026679325&text=Somos%20un%20restaurante%20vegano..."
             },
             {
                 "channel": "facebook",
-                "url": "Cero pollito"
+                "url": "https://www.facebook.com/ceropollitoco?locale=ms_MY"
             },
             {
-                "channel": "tiktok",
-                "url": "Ceropollitoco"
+                "channel": "rappi",
+                "url": "https://www.rappi.com.co/restaurantes/900280875-cero-pollito"
             }
         ],
         "googleScore": 4.7,
@@ -1126,7 +1251,7 @@
             {
                 "street": "Carrera 106  bis # 143-32 ",
                 "city": "Bogotá",
-                "petViernesendly": true
+                "petFrendly": true
             }
         ],
         "schedules": [
@@ -1158,20 +1283,20 @@
         },
         "socialNetworks": [
             {
-                "channel": "webEn el lugar  ",
+                "channel": "web ",
                 "url": "ttps://linktr.ee/corazonanimalvegano"
             },
             {
                 "channel": "instagram",
-                "url": "@corazonanimalvegano"
+                "url": "https://www.instagram.com/corazonanimalvegano/"
+            },
+            {
+                "channel": "whatsapp",
+                "url": "https://api.whatsapp.com/send?phone=3192398174&text=Somos%20un%20restaurante%20vegano..."
             },
             {
                 "channel": "facebook",
-                "url": "Corazón animal vegano"
-            },
-            {
-                "channel": "tiktok",
-                "url": "Corazón animal vegano"
+                "url": "https://www.facebook.com/corazonanimalvegano/?locale=es_LA"
             }
         ],
         "googleScore": 4.7,
