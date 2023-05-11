@@ -10,8 +10,8 @@ export default function App() {
     <div>
       <h1>Restaurantes</h1>
       <div className="list">
-        {restaurants.map((restaurant) => (
-          <Card restaurant={restaurant} modal={setClickRestaurant} />
+        {restaurants.map((restaurant,i) => (
+          <Card key={i} restaurant={restaurant} modal={setClickRestaurant} />
         ))}
 
       </div>

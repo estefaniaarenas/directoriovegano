@@ -1,29 +1,26 @@
-import { useCallback, useState } from "react";
-import { GoogleMap as Map, useLoadScript } from "@react-google-maps/api";
+import { GoogleMap as Map, useLoadScript, MarkerF } from "@react-google-maps/api";
 
-export function MapComponent() {
-    const [map, setMap] = useState(null)
-    const onLoad = useCallback((map) => setMap(map), [])
+const libraries = ['places']
 
+export function MapComponent({ markers }) {
     const { isLoaded } = useLoadScript({
         googleMapsApiKey: import.meta.env.VITE_GOOGLE_API_KEY,
-        libraries: ['places']
+        libraries
     })
 
     if (!isLoaded) return null
 
     return (
         <Map
-            zoom={18}
-            center={{ lat: 4.687200, lng: -74.072020 }}
-            onLoad={onLoad}
+            zoom={13}
+            center={markers[0]}
             mapContainerStyle={{ width: '100%', height: '100%' }}
             options={{
                 disableDefaultUI: true,
                 zoomControl: true
             }}
         >
-
+            {markers.map(marker => <MarkerF  position={{ lat: marker.lat, lng: marker.lng }} />)}
         </Map>
     );
 }

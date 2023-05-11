@@ -1,7 +1,6 @@
 export const Card = ({ restaurant,modal }) => {
     return (
-
-        <div className="card">
+        <div className="card" key={restaurant.name}>
             <div className="image">
                 <img src={`src/assets/images/${restaurant.image}`} alt="hola" />
                 <p className="sub">{restaurant.type}</p>

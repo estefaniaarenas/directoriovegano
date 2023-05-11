@@ -6,11 +6,15 @@
             {
                 "street": "Av Suba #100-53",
                 "city": "Bogotá",
+                "lat": 4.6899831,
+                "lng": -74.0684589,
                 "petFrendly": true
             },
             {
                 "street": "Calle 71#9-55",
                 "city": "Bogotá",
+                "lat": 4.6553407,
+                "lng": -74.060619,
                 "petFrendly": true
             }
         ],
@@ -77,11 +81,15 @@
             {
                 "street": "Av. cra 19#106 -46",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             },
             {
                 "street": "Calle 65 # 5-70",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -148,11 +156,15 @@
             {
                 "street": "Calle 102 #68a-36",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": false
             },
             {
                 "street": "Calle 141 #9-40",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": false
             }
         ],
@@ -223,11 +235,15 @@
             {
                 "street": "Carrera 7 #64-24",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             },
             {
                 "street": "Carrera 9 #60-96",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -299,6 +315,8 @@
             {
                 "street": "Casa Arsenal, Cll 67 #6-32",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -375,6 +393,8 @@
             {
                 "street": "Carrera 8#45-87 piso 2",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -437,6 +457,8 @@
             {
                 "street": "Carrera 20 #35-26",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": false
             }
         ],
@@ -497,6 +519,8 @@
             {
                 "street": "Calle 93 #13-91 local 3",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -564,11 +588,15 @@
             {
                 "street": "Carrera 5 #69-27",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             },
             {
                 "street": "Calle 140 #12-09 segundo piso",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -647,6 +675,8 @@
             {
                 "street": "Carrera 54 #5c-33",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -708,6 +738,8 @@
             {
                 "street": "Calle 61 #9-81",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -761,6 +793,8 @@
             {
                 "street": "Cll 19 Bis #1-49",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -818,6 +852,8 @@
             {
                 "street": "Cr12 #71-58",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -882,6 +918,8 @@
             {
                 "street": "calle 85a#24-14",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -935,6 +973,8 @@
             {
                 "street": "carrera 9a#60-44",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -988,6 +1028,8 @@
             {
                 "street": "carrera 24 #82 - 59",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -1046,6 +1088,8 @@
             {
                 "street": "carrera 47a #99-63",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -1104,11 +1148,15 @@
             {
                 "street": "Calle 36 #14-66, ",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             },
             {
                 "street": "Calle 78 #11-49",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": false
             }
         ],
@@ -1187,6 +1235,8 @@
             {
                 "street": "Carrera 13# 40c-29 ",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
@@ -1251,6 +1301,8 @@
             {
                 "street": "Carrera 106  bis # 143-32 ",
                 "city": "Bogotá",
+                "lat": 4.694,
+                "lng": -74.077,
                 "petFrendly": true
             }
         ],
